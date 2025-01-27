@@ -1,1 +1,1 @@
-# NLP_CourseNotes
+# Natural Language Processing Course Notes
